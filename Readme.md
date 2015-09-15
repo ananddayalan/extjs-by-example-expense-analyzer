@@ -1,3 +1,4 @@
+# Extjs by example : Expense Analyzer
 
 This "Expense Analyzer" is one of the sample projects detailed in the book "[ExtJS by Example](https://www.packtpub.com/web-development/ext-js-example)". This sample application uses ExtJS 6. 
 The scafolding for this application was done using the following command. 
